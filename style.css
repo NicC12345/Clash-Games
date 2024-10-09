@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    font-size: 18px; /* Larger text for readability */
+    line-height: 1.6;
+}
+
+header {
+    background-color: rgba(0, 61, 20, 0.9); /* Dark green with opacity */
+    color: white;
+    padding: 20px;
+}
+
+header img {
+    width: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header h1 {
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: middle;
+    color: white;
+    font-size: 32px; /* Make the title larger */
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px; /* Larger navigation text */
+    font-weight: bold; /* Add bold for emphasis */
+}
+
+nav a:hover {
+    color: #ffcc00; /* Add a hover effect for the links */
+}
+
+section {
+    margin: 50px 0;
+    background-color: rgba(176, 171, 255, 0.8); /* A more opaque color */
+    padding: 30px; /* Add padding for better spacing */
+    border-radius: 10px; /* Rounded corners for smoother design */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+footer {
+    margin-top: 50px;
+    padding: 30px;
+    background-color: #333;
+    color: white;
+    font-size: 16px;
+}
+
+footer p {
+    margin: 0;
+    padding: 0;
+}
