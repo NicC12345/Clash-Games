@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: rgba(0, 61, 20, 0.9); /* Dark green with opacity */
+    background-color: rgba(0, 111, 6, 0.9); /* Dark green with opacity */
     color: white;
     padding: 20px;
 }
@@ -40,7 +40,7 @@ nav a:hover {
 
 section {
     margin: 50px 0;
-    background-color: rgba(176, 171, 255, 0.8); /* A more opaque color */
+    background-color: rgba(102, 192, 102, 0.8); /* Lighter green */
     padding: 30px; /* Add padding for better spacing */
     border-radius: 10px; /* Rounded corners for smoother design */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
